@@ -7,12 +7,12 @@
   
    ## Purpose
    \
-  Creates a random password between 8 and 128 characters with options for lowercase, uppercase, numeric and/or special characters based on the user’s selections. 
+  Creates a random password between 8 and 128 characters with options for lowercase, uppercase, numeric and/or special characters based on the userâ€™s selections. 
    
    
    ## Deployed Website
    \
-   ![Website screenshot](https://github.com/MsMischief/01-Homework/blob/main/assets/images/screenshot.PNG)
+   ![Website screenshot](https://raw.githubusercontent.com/MsMischief/Homework_01-14-2021/main/assets/passwordgenerator.PNG)
    
    
    ## Credits
