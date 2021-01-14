@@ -12,7 +12,8 @@
    
    ## Deployed Website
    \
-   ![Website screenshot](https://raw.githubusercontent.com/MsMischief/Homework_01-14-2021/main/assets/passwordgenerator.PNG)
+  https://msmischief.github.io/Homework_01-14-2021/
+  ![Website screenshot](https://raw.githubusercontent.com/MsMischief/Homework_01-14-2021/main/assets/passwordgenerator.PNG)
    
    
    ## Credits
